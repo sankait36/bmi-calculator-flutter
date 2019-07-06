@@ -6,6 +6,7 @@ const kSliderActiveColor = Colors.white;
 const kSliderThumbColor = Color(0xFFEB1555);
 const kSliderOverlayColor = Color(0x29EB1555);
 const kSliderInactiveColor = Color(0xFF8D8E98);
+const kRoundIconButtonFillColor = Color(0xFF4C4F5E);
 const kBottomContainerColor = Color(0xFFEB1555);
 const kBottomContainerHeight = 80.0;
 
